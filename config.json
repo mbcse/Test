@@ -1,0 +1,13 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "host":"localhost",
+    "usern":"root",
+    "pass":"",
+    "db":"smart_c_bot"
+
+
+  }
+
+}
